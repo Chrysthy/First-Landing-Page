@@ -1,7 +1,7 @@
 # First Landing Page
 Online workshop: Women’s Coding Day by Le Wagon. 👩‍💻
 
-<p> Here are the different sections of this workshop </p>
+<p> Here are the different sections of this workshop: </p>
 
 <ul>
 
