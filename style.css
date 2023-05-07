@@ -1,1 +1,26 @@
 /* Write some CSS below */
+body {
+    font-family: 'overpass';
+    color: #404042;
+    font-size: 18px;
+
+}
+
+h1,
+h2,
+h3 {
+font-family: chivo;
+
+}
+
+a {
+    color: #1a48e3;
+    font-weight: bold;
+    text-decoration: none;
+    transition: .3s;
+}
+
+a:hover {
+ color: #153fc8;
+
+}
