@@ -1,9 +1,8 @@
 # First Landing Page
-Online workshop: [Women’s Coding Day by Le Wagon.](https://app.livestorm.co/lewagon/online-workshop-womens-coding-day-learn-to-build-your-first-landing-page/live?s=46ed59f6-371a-49d2-ae89-1587cfc1fbf7#/chat) 👩‍💻
 
-<p> Here are the different sections of this workshop: </p>
+[Le Wagon's](https://www.lewagon.com/pt-BR) Online workshop: [Women’s Coding Day by Le Wagon.](https://app.livestorm.co/lewagon/online-workshop-womens-coding-day-learn-to-build-your-first-landing-page/live?s=46ed59f6-371a-49d2-ae89-1587cfc1fbf7#/chat) 👩‍💻
 
-<ul>
+Here are the different sections of this workshop: 
 
 - Lecture: slides and video of the workshop;
 - My turn: the different challenges I will have to go through;
