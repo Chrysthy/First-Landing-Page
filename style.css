@@ -47,7 +47,8 @@ h3 {
 }
 
 .btn-blue:hover {
-    color: #153fc8;
+    color: white;
+    background-color: rgb(33, 33, 184);
 
 }
 
