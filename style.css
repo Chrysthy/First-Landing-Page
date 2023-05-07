@@ -3,24 +3,90 @@ body {
     font-family: 'overpass';
     color: #404042;
     font-size: 18px;
+    margin: 0;
 
 }
 
 h1,
 h2,
 h3 {
-font-family: chivo;
+    font-family: chivo;
 
 }
 
-a {
-    color: #1a48e3;
+.banner {
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 45px;
+    margin: 0%;
+
+}
+
+.banner p {
+    color: white;
+    font-size: 24px;
+    opacity: 0.7;
+}
+
+.btn-blue {
+    background-color: #1a4be3;
+    color: white;
+    padding: 16px 48px;
+    border-radius: 4px;
     font-weight: bold;
     text-decoration: none;
     transition: .3s;
+    display: inline-block;
 }
 
-a:hover {
- color: #153fc8;
+.btn-blue:hover {
+    color: #153fc8;
+
+}
+
+.container {
+
+    width: 900px;
+    margin: 60px auto;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 16px;
+}
+
+.card-white {
+    background: white;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+    border-radius: 24 px;
+    padding: 24px;
+    margin: 8px;
+
+}
+
+.card-white img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.footer {
+    background-color: #404042;
+    padding: 10px 0;
+
+}
+
+.footer p {
+    color: white;
+    text-align: center;
 
 }
